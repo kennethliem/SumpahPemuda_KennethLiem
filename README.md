@@ -1,5 +1,5 @@
 # Mohammad Yamin - TUGAS2
- {{ Diskripsi Project }}
+Membuat aplikasi yang memperkenalkan Mohammad Yamin.
 ### Screenshot
 <img src="ss.JPG?raw=true" height=400px/>
 
