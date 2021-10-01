@@ -1,4 +1,4 @@
-# {{Nama Aplikasi}} ({{ Kode Project / tugas }})
+# Sudirman (Soedirman) - TUGAS2
  {{ Diskripsi Project }}
 ### Screenshot
 {{ Letakan gambar aplikasi disini }}
@@ -7,18 +7,7 @@
 - {{ Komponen apa saja yang dikerjakan untuk membuat aplikasi }}
 
 ### Created By
-- {{ Nama Kelompok Anda }}
-    - Halaman Login (2 poin)
-    - Fungsi Login (1 poin)
-    - Data Model (1 poin)
-- {{ Nama Kelompok Anda }}
-    - Halaman Pencarian (3 poin)
-    - Fungsi Pencarian (2 poin)
-- {{ Nama Kelompok Anda }}
-    - Design Pattern BLoC (3 poin)
-    - Fungsi REST API (2 poin)
-    - Fungsi CRUD SQLite (3 poin)
-- {{dst}}
+- Kenneth Liem Hardadi
 ---
 ### Mata Kuliah 
 COE-5109 Pemprograman Mobile. 
