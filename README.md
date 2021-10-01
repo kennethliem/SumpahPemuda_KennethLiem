@@ -1,10 +1,11 @@
 # Mohammad Yamin - TUGAS2
  {{ Diskripsi Project }}
 ### Screenshot
-{{ Letakan gambar aplikasi disini }}
+<img src="ss.jpg" />
 
 ### Built With
-- {{ Komponen apa saja yang dikerjakan untuk membuat aplikasi }}
+- Flutter
+- RatingBar Package
 
 ### Created By
 - Kenneth Liem Hardadi
