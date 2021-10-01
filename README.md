@@ -1,4 +1,4 @@
-# Sudirman (Soedirman) - TUGAS2
+# Mohammad Yamin - TUGAS2
  {{ Diskripsi Project }}
 ### Screenshot
 {{ Letakan gambar aplikasi disini }}
