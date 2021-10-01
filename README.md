@@ -1,7 +1,7 @@
 # Mohammad Yamin - TUGAS2
  {{ Diskripsi Project }}
 ### Screenshot
-<img src="/kennethliem/SumpahPemuda_KennethLiem/blob/main/ss.JPG?raw=true" />
+<img src="=blob/main/ss.JPG?raw=true" />
 
 ### Built With
 - Flutter
